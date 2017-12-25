@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 import cn.agency.domain.User;
 import cn.agency.service.UserService;
 
-/**
- * Created by gordon on 17/12/25.
- */
 @RestController
 @RequestMapping("/user")
 public class UserController {

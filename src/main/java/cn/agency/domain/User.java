@@ -7,9 +7,6 @@ import java.io.Serializable;
 import lombok.Data;
 
 
-/**
- * Created by gordon on 17/12/25.
- */
 @Document(collection = "user")
 @Data
 public class User implements Serializable {

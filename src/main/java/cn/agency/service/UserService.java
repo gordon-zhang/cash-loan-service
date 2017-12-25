@@ -6,9 +6,6 @@ import org.springframework.stereotype.Service;
 import cn.agency.domain.User;
 import cn.agency.repo.UserRepository;
 
-/**
- * Created by gordon on 17/12/25.
- */
 @Service
 public class UserService {
     @Autowired
